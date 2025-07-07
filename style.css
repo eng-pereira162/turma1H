@@ -1,4 +1,8 @@
 body {
+    background-color: rgb(239, 175, 229);
+}
 
-    background-color: red;
+header {
+    border-bottom: solid 2px rgb(0, 0, 0);
+
 }
