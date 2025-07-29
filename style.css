@@ -9,7 +9,16 @@ header {
 
 
 h1 {
-    background-color: brown;
-    color: chartreuse;
+    background-color: rgb(155, 165, 42);
 
+}
+
+.TextoAzul {
+    color: blue;
+
+}
+
+.TextoVermelho {
+
+    color: red;
 }
